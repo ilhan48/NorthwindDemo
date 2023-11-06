@@ -1,6 +1,8 @@
 Uzun zamandır localimde geliştirdiğim ve üzerinde çalıştığım bazı projeleri CV gönderdiğim şirketlerin isteği üzerine github da yayınlamaya karar verdim.
 
-Teknolojiler
+##Teknolojiler
+
+
 .NET 7.0: Proje, .NET 7.0 sürümü üzerinde geliştirilmiştir.
 Onion Architecture: Proje, Onion Architecture (Soğan Mimarisi) prensiplerine uygun olarak tasarlanmıştır.
 Domain-Driven Design (DDD): DDD prensipleri, projenin tasarımında kullanılmıştır.
